@@ -26,7 +26,7 @@ function getSecondLargest(arr) {
 
 }
 
-// output = getSecondLargest([10, 10, 10])
-// console.log(output)
+output = getSecondLargest([10, 10, 10])
+console.log(output)
 
 
